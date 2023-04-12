@@ -22,6 +22,10 @@ Seaborn – to make statistical graphics in Python.
 
 •	Decision tree 
 
+![Decision Tree Plot](Technion-Data-Science-Projects/decision tree visualization.png)
+
+
+
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="Technion-Data-Science-Projects/decision tree visualization.png">
  <source media="(prefers-color-scheme: light)" srcset="Technion-Data-Science-Projects/decision tree visualization.png">
