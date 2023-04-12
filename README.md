@@ -23,9 +23,9 @@ Seaborn – to make statistical graphics in Python.
 •	Decision tree 
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/orlytaf/Technion-Data-Science-Projects/blob/main/Python%20Data%20Analysis/Visualizations/Decision%20Tree%20plot.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/orlytaf/Technion-Data-Science-Projects/blob/main/Python%20Data%20Analysis/Visualizations/Decision%20Tree%20plot.png">
- <img alt="Decision Tree Plot" src="https://github.com/orlytaf/Technion-Data-Science-Projects/blob/main/Python%20Data%20Analysis/Visualizations/Decision%20Tree%20plot.png">
+ <source media="(prefers-color-scheme: dark)" srcset="Technion-Data-Science-Projects/decision tree visualization.png">
+ <source media="(prefers-color-scheme: light)" srcset="Technion-Data-Science-Projects/decision tree visualization.png">
+ <img alt="Decision Tree Plot" src="Technion-Data-Science-Projects/decision tree visualization.png">
 </picture>
 
 •	Random Forest
